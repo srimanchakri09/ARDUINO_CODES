@@ -1,0 +1,5 @@
+We need to set the switches in blynk to controll the devices and then we need to make conditions in IFTTT which has to be done with the same mail given in the blynk app 
+
+
+For reference :
+         https://codeometry.in/home-automation-using-nodemcu-and-google-assistant/
